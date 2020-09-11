@@ -1,7 +1,7 @@
 from flask import Flask, render_template
 
-# app = Flask(__name__, static_folder='../front/dist/static', template_folder='../front/dist')
-app = Flask(__name__, static_folder='../front/public', template_folder='../front/public')
+app = Flask(__name__, static_folder='../front/dist/static', template_folder='../front/dist')
+# app = Flask(__name__, static_folder='../front/public', template_folder='../front/public')
 
 @app.route('/')
 
