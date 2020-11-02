@@ -1,0 +1,22 @@
+{
+    "あ":"/front/public/static/voice/1a_B4.wav",
+    "い":"/front/public/static/voice/2i_B4.wav",
+    "う":"/front/public/static/voice/3u_B4.wav",
+    "え":"/front/public/static/voice/4e_B4.wav",
+    "お":"/front/public/static/voice/5o_B4.wav",
+    "か":"/front/public/static/voice/6ka_B4.wav",
+    "き":"/front/public/static/voice/7ki_B4.wav",
+    "く":"/front/public/static/voice/8ku_B4.wav",
+    "け":"/front/public/static/voice/9ke_B4.wav",
+    "こ":"/front/public/static/voice/10ko_B4.wav",
+    "さ":"/front/public/static/voice/11sa_B4.wav",
+    "し":"/front/public/static/voice/12si_B4.wav",
+    "す":"/front/public/static/voice/13su_B4.wav",
+    "せ":"/front/public/static/voice/14se_B4.wav",
+    "そ":"/front/public/static/voice/15so_B4.wav",
+    "た":"/front/public/static/voice/16ta_B4.wav",
+    "ち":"/front/public/static/voice/17ti_B4.wav",
+    "つ":"/front/public/static/voice/18tu_B4.wav",
+    "て":"/front/public/static/voice/19te_B4.wav",
+    "と":"/front/public/static/voice/20to_B4.wav"
+}
