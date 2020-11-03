@@ -1,5 +1,11 @@
 # hiranaga_prj
 
+<h2>URL</h2>
+https://protected-crag-25819.herokuapp.com/
+本アプリのURLです。</br>
+常時稼働にはしておりませんので、ご覧になりたい方は当方のtwitterアカウントへDMをください。</br>
+twitter:@heada_13
+
 <h2>概要</h2>
 自習用兼こどものおもちゃとして開発している平仮名学習用アプリです。
 
