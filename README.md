@@ -19,11 +19,6 @@ twitter:@heada_13
 10問で終了になります。終了になると、結果が表示されます。</br>
 
 <h2>画面説明</h2>
-![97958839-698b6900-1df1-11eb-8f93-23dc82e2bf3e](https://user-images.githubusercontent.com/49239713/99964004-fa90a700-2dd5-11eb-9282-3a1d3369adba.png)
-
-
-
-
 
 
 https://user-images.githubusercontent.com/49239713/97958839-698b6900-1df1-11eb-8f93-23dc82e2bf3e.png
