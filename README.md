@@ -19,6 +19,6 @@ twitter:@heada_13
 10問で終了になります。終了になると、結果が表示されます。</br>
 
 <h2>画面説明</h2>
-![image](https://user-images.githubusercontent.com/49239713/97958839-698b6900-1df1-11eb-8f93-23dc82e2bf3e.png)</br>
+![hiragana02](https://user-images.githubusercontent.com/49239713/97958839-698b6900-1df1-11eb-8f93-23dc82e2bf3e.png)</br>
 https://user-images.githubusercontent.com/49239713/97958758-377a0700-1df1-11eb-861b-39078244938e.png</br>
 https://user-images.githubusercontent.com/49239713/97958839-698b6900-1df1-11eb-8f93-23dc82e2bf3e.png
