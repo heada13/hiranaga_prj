@@ -20,3 +20,6 @@ twitter:@heada_13
 
 <h2>画面説明</h2>
 ![97958839-698b6900-1df1-11eb-8f93-23dc82e2bf3e](https://user-images.githubusercontent.com/74914458/99977580-2f0d5e80-2de8-11eb-8e8b-1ca2f8d8a0d0.png)
+
+
+![hiragana01](https://user-images.githubusercontent.com/49239713/97958758-377a0700-1df1-11eb-861b-39078244938e.png)
