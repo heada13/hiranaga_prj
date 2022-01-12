@@ -28,7 +28,7 @@ mccabe==0.6.1
 numpy==1.18.2
 oauthlib==3.1.0
 pgzero==1.2
-pipenv==2020.8.13
+pipenv==2022.1.8
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pygame==1.9.6
